@@ -1,0 +1,10 @@
+{
+  "name": "loto-turbo-ia",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
